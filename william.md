@@ -368,3 +368,67 @@ FrenchFrench
 Professional working proficiencyProfessional working proficiency
 Show all 3 languages
 InterestsInterests
+
+# ETHGlobal Hackathon Application Questions
+
+Ethereum Wallet Address: 0x0E5d299236647563649526cfa25c39d6848101f5
+
+
+
+Tell us about your background in Web2.
+
+I have attended many Hackathons to build projects that help bring value to our target users in Web2!
+
+ChanceMeMrGoose, a website that calculates an applicant's chances of receiving an offer to various Waterloo engineering programs according to their admissions information. 
+
+Another one is AccommodateMeMrGoose, a website that suggests your ideal 1st-year Waterloo residence based on your housing preferences.
+
+While they are not the most technically complex project I've built, they are the ones I am most proud of due to its positive impact on the Waterloo community and the messages I get every term thanking me for creating a very easy to use and practical tool that helps students make informed decisions about their program choices or residence rankings.
+
+There’s nothing I love more than helping others, and thanks to technology, the reach and accessibility of my projects and contributions exceeds anything I could have done physically. Which is why I am so grateful for the legacy of excellence, diversity, and innovation at Waterloo, and I hope to contribute to that exceptional legacy and leave a positive impact on the community like those before me. 
+
+
+
+What will you be developing/building at this event?
+Tell us about how you got here — what about L2/Scalability is interesting to you and what would you like to build at the hackathon?
+
+I want to build projects that make Web3 accessible to everyone, like chatbots / voice assistants that help you mint NFTs, or facilitate transactions - making diving into Web3 as easy as texting a friend or talking to Siri.
+
+I want to learn more about Web3 and Ethereum because they enable functionalities that can’t be implemented with traditional Web2 technologies (trust-less transactions, true decentralization). While I have a background in Web2, Web3 is still something that is relatively new to me.
+
+Being able to learn more about the space will help me contribute more value to society through my side projects and make me a more well rounded developer. I hope to find an idea that I am passionate about from meeting others at the event and going to the workshops, as well as seeing the sponsors available.
+
+
+
+Web3 Projects
+
+ETHDenver 2023 NEAR Protocol Decentralized Frontend Challenge Winner 🏆 Building a dapp on NEAR's new frontend with BOS.GG, integrate with rocketpool to offer quick swaps on ethereum
+
+https://github.com/WilliamUW/ETHDenver2023
+
+uOttaHacks 2023 x Nokia Winner ($1K prize + guided office tours)! 🥇 Medifill - Autofill all your medical information at a click of a button, secured by blockchain.
+
+Medifill simplifies medical info management. One click autofills all details with blockchain security. Say goodbye to manual forms, hello to ease & peace of mind.
+
+https://devpost.com/software/medifill
+
+
+
+What ZK app you be developing/building at this event?
+Tell us about how you got here — what about ZK Ecosystem is interesting to you and what would you like to build at the hackathon?
+
+
+I'm thrilled to explore the fascinating world of zero-knowledge proofs (ZK) at this event. The ZK ecosystem is revolutionary because it allows us to prove something without revealing the underlying information, which has incredible potential for privacy and security.
+
+I'm here to learn more about ZK and its applications, especially in blockchain and cybersecurity. At the hackathon, I'd love to build a ZK-based app that showcases the power of this technology in enhancing privacy and trust in digital interactions. The ability to create systems where data remains confidential while proving its validity is a game-changer, and I'm excited to be part of this innovation journey.
+
+
+
+Why NEAR Hacker House?
+
+
+Staying at the NEAR Protocol Hacker House can provide a conducive environment for focused work and productivity. The house is designed to foster innovation and provide resources for builders in the space working with NEAR. It could be a great opportunity to collaborate with other like-minded developers, participate in hackathons or workshops, and work on my own projects - in addition to collaborating and exchanging ideas with other residents. 
+
+For instance, I met my teammates for ETHDenver at the hacker house I stayed there, and we ended up winning the NEAR Protocol Decentralized Frontend Challenge! Lastly, as a Venture Capital Intern, I am always on the lookout for new deals, so NEAR’s hacker house provides an easy avenue to learning about new projects and founders looking to raise!
+
+
